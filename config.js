@@ -57,10 +57,10 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/fd4371e65d95a9efc6300.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '*ShehaN | Officual2004 🥵🍃*
+global.ALIVE_MESSAGE = 'ShehaN | Officual2004 🥵🍃
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 
-*༺𝗕𝗢𝗧 𝗗𝗘𝗧𝗔𝗜𝗟𝗦༻*
+༺𝗕𝗢𝗧 𝗗𝗘𝗧𝗔𝗜𝗟𝗦༻
 
 ~*𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ShehaN 😍🍫*~
 
@@ -103,9 +103,9 @@ global.SEX_DL = 'false' // 18 + video dl
 
 global.AUTO_STICKER = true
 
-global.AUTO_REPLY = true
+global.AUTO_REPLY = false
 
-global.VOICE_REPLY = true
+global.VOICE_REPLY = false
 
 
 /* V card */
