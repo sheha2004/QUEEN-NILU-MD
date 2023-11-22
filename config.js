@@ -57,28 +57,7 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
 global.ALIVELOGO = 'https://telegra.ph/file/fd4371e65d95a9efc6300.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '*ShehaN | Officual2004 🥵🍃*
-━━━━━━━━━━━━━━━━━━━━━━━━━
-
-*༺𝗕𝗢𝗧 𝗗𝗘𝗧𝗔𝗜𝗟𝗦༻*
-
-~*𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ShehaN 😍🍫*~
-
-~*𝙱𝚘𝚝 𝙽𝚞𝚖𝚋𝚎𝚛 : 94774395354*~
-
-~*𝙰𝚞𝚐 : 2004/05/10 (19) 😾❤‍🩹*~
-
-~*𝙲𝚘𝚞𝚗𝚝𝚛𝚢 : Sri lankan 🇱🇰💗*~
-
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━
-𝗦𝗛𝗘𝗛𝗔𝗡 | 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟2004
-━━━━━━━━━━━━━━━━━━━━━━━━━
-
-*༺𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 ༻*
-
-*Give your love to someone who appreciates it :| 😙💗*' // Set Alive Message
+global.ALIVE_MESSAGE = '' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
