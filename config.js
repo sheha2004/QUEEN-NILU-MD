@@ -14,18 +14,18 @@ function convertToBool(text, fault = 'true') {
 
 // PUT YOUR SESSION ID HERE  ##Required 
 
-global.SESSION_ID = '' // PUT your session ID BY scan QR 
+global.SESSION_ID = 'QueenNilu;;;djhCRbrC#Io3Og9aDc0LBJM3D6RzPGARImLkNezVyZxXBhSuNIZ4' // PUT your session ID BY scan QR 
 
 // databse URL  ##Required 
-global.POSTGRESQL_URL = ''
+global.POSTGRESQL_URL = 'postgres://shehan2004_user:ir8Sk58oHQd5wkOQJqDY41XboUp9bg78@dpg-clf18k3l00ks739ut0vg-a.frankfurt-postgres.render.com/shehan2004'
 
  
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94774395354'
 
-global.OWNER_NAME = 'Janiya_X'
+global.OWNER_NAME = 'ShehaN2004'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
@@ -41,13 +41,13 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'ShehaN | Official2004'
 
 global.FOOTER = 'Queen Nilu 2023'
 
 global.BOT_OFFLINE = false    //  Always Onlne -  | false offline -True
 
-global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
+global.STICKER_NAME = 'ShehaN2004 😙💗' //sticker
 
 global.LANG = 'EN' // Language (EN-  TO english  ,  SI- TO sinhala )
 
@@ -55,9 +55,30 @@ global.PREFIX = '.' // Bot Prefix
 
 global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 
-global.ALIVELOGO = 'https://telegra.ph/file/1e63f0ee90304a12767c7.jpg' // Set Alive Logo link 
+global.ALIVELOGO = 'https://telegra.ph/file/fd4371e65d95a9efc6300.jpg' // Set Alive Logo link 
 
-global.ALIVE_MESSAGE = '' // Set Alive Message
+global.ALIVE_MESSAGE = '*ShehaN | Officual2004 🥵🍃*
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*༺𝗕𝗢𝗧 𝗗𝗘𝗧𝗔𝗜𝗟𝗦༻*
+
+~*𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ShehaN 😍🍫*~
+
+~*𝙱𝚘𝚝 𝙽𝚞𝚖𝚋𝚎𝚛 : 94774395354*~
+
+~*𝙰𝚞𝚐 : 2004/05/10 (19) 😾❤‍🩹*~
+
+~*𝙲𝚘𝚞𝚗𝚝𝚛𝚢 : Sri lankan 🇱🇰💗*~
+
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━
+𝗦𝗛𝗘𝗛𝗔𝗡 | 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟2004
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+*༺𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 ༻*
+
+*Give your love to someone who appreciates it :| 😙💗*' // Set Alive Message
 
 global.MAX_SIZE = '500' // Bot Uloading Max size 
 
