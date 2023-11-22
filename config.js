@@ -58,8 +58,6 @@ global.CAPTION = 'ǫᴜᴇᴇɴ ɴɪʟᴜ  © 2023' // Caption
 global.ALIVELOGO = 'https://telegra.ph/file/fd4371e65d95a9efc6300.jpg' // Set Alive Logo link 
 
 global.ALIVE_MESSAGE = 'ShehaN | Officual2004 🥵🍃
-━━━━━━━━━━━━━━━━━━━━━━━━━
-
 ༺𝗕𝗢𝗧 𝗗𝗘𝗧𝗔𝗜𝗟𝗦༻
 
 ~*𝙱𝚘𝚝 𝙽𝚊𝚖𝚎 : ShehaN 😍🍫*~
@@ -70,11 +68,7 @@ global.ALIVE_MESSAGE = 'ShehaN | Officual2004 🥵🍃
 
 ~*𝙲𝚘𝚞𝚗𝚝𝚛𝚢 : Sri lankan 🇱🇰💗*~
 
-
-
-━━━━━━━━━━━━━━━━━━━━━━━━━
 𝗦𝗛𝗘𝗛𝗔𝗡 | 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟2004
-━━━━━━━━━━━━━━━━━━━━━━━━━
 
 *༺𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬 ༻*
 
